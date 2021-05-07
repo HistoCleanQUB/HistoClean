@@ -4,6 +4,8 @@ HistoClean is an open source image processing tool for use in developing deep le
 
 This repository contains all relavent files relating to the paper "HistoClean: open-source software for histological image pre-processing and augmentation to improve development of robust convolutional neural networks"
 
+## The latest release can be found [Here](https://github.com/HistoCleanQUB/HistoClean/releases)
+
 The current version (v0.1) consists of five modules:
 
 1) Image patching - Divide large images into patches for use in convolutional neural networks or other computer vision tasks.  Based on the "Patchify" Python Package - https://pypi.org/project/patchify/
