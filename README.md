@@ -25,4 +25,5 @@ The current version (v0.1) consists of five modules:
 
 ![Untitled-1](https://user-images.githubusercontent.com/83717897/117258506-f5378e00-ae44-11eb-9dbf-d76b5453f83b.jpg)
 
+Currently this application is only availble for Windows, but there are plans to port to MacOS and Linux in the coming weeks.
 
