@@ -6,6 +6,8 @@ This repository contains all relavent files relating to the paper "HistoClean: o
 
 ## The latest binary release can be found [Here](https://github.com/HistoCleanQUB/HistoClean/releases)
 
+Currently this application is only availble for Windows, but there are plans to port to MacOS and Linux in the coming weeks.
+
 The current version (v0.1) consists of five modules:
 
 1) Image patching - Divide large images into patches for use in convolutional neural networks or other computer vision tasks.  Based on the "Patchify" Python Package - https://pypi.org/project/patchify/
@@ -25,5 +27,5 @@ The current version (v0.1) consists of five modules:
 
 ![Untitled-1](https://user-images.githubusercontent.com/83717897/117258506-f5378e00-ae44-11eb-9dbf-d76b5453f83b.jpg)
 
-Currently this application is only availble for Windows, but there are plans to port to MacOS and Linux in the coming weeks.
+
 
