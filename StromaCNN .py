@@ -209,7 +209,7 @@ class StromaDetector(nn.Module):
         Sample_Image_Array = torch.randn(Image_Size, Image_Size).view(-1, 1, Image_Size, Image_Size)
         self.convs(Sample_Image_Array)
         self.fc1 = nn.Linear(self._to_linear, First_Linear_Layer_Nodes)
-        self.fc2 = nn.Linear(512, Final_Layer_Nodes)
+        self.fc2 = nn.Linear(First_Linear_Layer_Nodes, Final_Layer_Nodes)
 
     def convs(self, x):
         x = ff.avg_pool2d(ff.relu(self.conv1(x)), (Pool_Kernal_Size, Pool_Kernal_Size))
