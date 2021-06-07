@@ -4,7 +4,7 @@ HistoClean is an open source image processing tool for use in developing deep le
 
 This repository contains all relavent files relating to the paper "HistoClean: open-source software for histological image pre-processing and augmentation to improve development of robust convolutional neural networks"
 
-WARNING: HistoClean is currenlty in pre-release and may contain many bugs.  It is recomended you make a copy of any datasets befora applying the application.
+WARNING: HistoClean is currenlty in pre-release and may contain many bugs.  It is recomended you make a copy of any datasets before applying the application.
 
 ## The latest binary release can be found [Here](https://github.com/HistoCleanQUB/HistoClean/releases)
 
