@@ -1,3 +1,4 @@
+## HistoClean
 Welcome to the HistoClean Gitbub repository!
 
 HistoClean is an open source image processing tool for use in developing deep learning models. Here, we bring together the best image manipulation packages into one easy to use application.
