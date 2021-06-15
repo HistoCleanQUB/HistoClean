@@ -7371,7 +7371,7 @@ def mainroot():
         DescLabel = tk.Label(OptionsFrame, text="", bg="grey86")
         DescLabel.place(relx=0.5, rely=0.05, anchor="center")
 
-        tk.mainloop()
+    tk.mainloop()
 
 def call_mainroot():
     SplashRoot.destroy()
