@@ -19,7 +19,8 @@ The current version (v0.1) consists of five modules:
 
 3) Whitespace Filtering - Set a minimum histological tissue (foreground) threshold for images. Allows for the quick and easy removal on non-informative images. Based on the openCV library - https://docs.opencv.org/master/d7/d4d/tutorial_py_thresholding.html
 
-![Whitespace](https://user-images.githubusercontent.com/83717897/117258469-ea7cf900-ae44-11eb-9624-220353e30280.JPG)
+<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/83717897/117258469-ea7cf900-ae44-11eb-9624-220353e30280.JPG">
+
 
 4) Image Normalisaton - Match the RGB histograms of images to a target image. This helps remove variations in staining.  Based on the Scikit-image package - https://scikit-image.org/docs/dev/auto_examples/color_exposure/plot_histogram_matching.html
 
