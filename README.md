@@ -11,9 +11,9 @@ WARNING: HistoClean is currenlty in pre-release and may contain many bugs.  It i
 
 Currently this application is only availble for Windows, but there are plans to port to MacOS and Linux in the coming weeks.
 
-The current version (v0.1.1) consists of five modules:
+The current version (v0.1.2) consists of five modules:
 
-1) Image patching - Divide large images into patches for use in convolutional neural networks or other computer vision tasks.  Based on the ["Patchify"](https://pypi.org/project/patchify/) Python Package
+1) Image patching - Divide large images into patches for use in convolutional neural networks or other computer vision tasks.  Based on the ["Openslide"](https://openslide.org/) Python Package
 
 2) Dataset balancing - Balance an infinate number of image classes by applying random rotation and mirroring to existing images. Class balancing is essential to prevent bias when training deep learining models.
 
